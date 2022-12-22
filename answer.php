@@ -7,6 +7,11 @@
     <title>xDiscuss</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
@@ -95,7 +100,7 @@
                 echo '
                 <div class="d-flex align-items-center my-3 p-3" style="background-color: #e8e6e9;">
                 <div class="flex-shrink-0">
-                    <img src="user.png" width="50px" alt="...">
+                    <img src="user.png" id="usm-img" width="50px" alt="...">
                 </div>
                 <div class="flex-grow-1 ms-3">
                 <p  class="float-end">'.$a_date.'</p>
