@@ -7,6 +7,11 @@
     <title>xDiscuss</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
@@ -19,26 +24,24 @@
     <div class="container marketing">
         <div class="row my-5">
             <div class="col-lg-4">
-                <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="user.png" alt="">
-                <h2>Heading</h2>
-                <p>Some representative placeholder content for the three columns of text below the carousel. This is the
-                    first column.</p>
-                <p><a class="btn btn-secondary" href="#">View details »</a></p>
+                <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="user2.jfif" alt="">
+                <h2>Harsh</h2>
+                <p>He ws involved in development fase of this product and in the support group of the Web .</p>
+                <p><a class="btn btn-success" href="#">View details »</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="user.png" alt="">
-                <h2>Heading</h2>
-                <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second
-                    column.</p>
-                <p><a class="btn btn-secondary" href="#">View details »</a></p>
+                <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="user1.jfif" alt="">
+                <h2>Hena</h2>
+                <p>He ws involved in development fase of this product and in the support group of the Web.</p>
+                <p><a class="btn btn-success" href="#">View details »</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="user.png" 14lt="">
-                <h2>Heading</h2>
-                <p>And lastly this, the third column of representative placeholder content.</p>
-                <p><a class="btn btn-secondary" href="#">View details »</a></p>
+                <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="user3.jfif" alt="">
+                <h2>Shubham</h2>
+                <p>He ws involved in development fase of this product and in the support group of the Web .</p>
+                <p><a class="btn btn-success" href="#">View details »</a></p>
             </div>
             <!-- /.col-lg-4 -->
         </div>
@@ -51,8 +54,9 @@
                     prose here.</p>
             </div>
             <div class="col-md-5 order-md-1">
-                <img src="thum1.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                    width="400" height="500" alt="">
+                <img src="thum1.jfif"
+                    class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="400"
+                    height="500" alt="">
             </div>
         </div>
         <hr class="featurette-divider">
@@ -64,8 +68,9 @@
                     prose here.</p>
             </div>
             <div class="col-md-5 order-md-1">
-                <img src="thum2.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                    width="400" height="500" alt="">
+                <img src="thum2.jfif"
+                    class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="400"
+                    height="500" alt="">
 
             </div>
         </div>
@@ -78,8 +83,9 @@
                     prose here.</p>
             </div>
             <div class="col-md-5 order-md-1">
-                <img src="thum3.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                    width="400" height="500" alt="">
+                <img src="thum3.jfif"
+                    class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="400"
+                    height="500" alt="">
 
             </div>
         </div>
@@ -92,8 +98,9 @@
                     prose here.</p>
             </div>
             <div class="col-md-5">
-                <img src="thum4.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                    width="400" height="500" alt="">
+                <img src="thum4.jfif"
+                    class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="400"
+                    height="500" alt="">
 
             </div>
         </div>
